@@ -15,4 +15,4 @@
 ![YouTube](https://img.shields.io/badge/-YouTube-29122d?style=for-the-badge&logo=YouTube&logoColor=f480f5) ![Telegram](https://img.shields.io/badge/-Telegram-29122d?style=for-the-badge&logo=Telegram&logoColor=f480f5) ![Instagram](https://img.shields.io/badge/-Instagram-29122d?style=for-the-badge&logo=Instagram&logoColor=f480f5)
  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-29122d?style=for-the-badge&logo=LinkedIn&logoColor=f480f5) ![Vkontakte](https://img.shields.io/badge/-Vkontakte-29122d?style=for-the-badge&logo=Vk&logoColor=f480f5) ![Facebook](https://img.shields.io/badge/-Facebook-29122d?style=for-the-badge&logo=Facebook&logoColor=f480f5)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemedev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemedev&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
