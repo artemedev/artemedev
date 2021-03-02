@@ -1,4 +1,4 @@
-[![Header](https://github.com/artemedev/artemedev/blob/main/assets/download.gif)](https://www.youtube.com/channel/UCdpACS60RY9uDq00NibjCew)
+[![Header](https://github.com/artemedev/artemedev/blob/main/assets/download.gif)](https://www.youtube.com/c/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%B8)
 
 ## I'm a Software Engineer
 
