@@ -9,4 +9,6 @@ Latest YouTube Videos
  ![JavaScript](https://img.shields.io/badge/-JavaScript-29122d?style=for-the-badge&logo=JavaScript&logoColor=f480f5) ![.Net](https://img.shields.io/badge/-Fraemwork-29122d?style=for-the-badge&logo=.net&logoColor=f480f5) ![C++](https://img.shields.io/badge/-C++-29122d?style=for-the-badge&logo=C%2b%2b&logoColor=f480f5) ![Sql](https://img.shields.io/badge/-Sql-29122d?style=for-the-badge&logo=mysql&logoColor=f480f5)
 
 
-Follow Me
+### Follow Me
+![YouTube](https://img.shields.io/badge/-YouTube-29122d?style=for-the-badge&logo=YouTube&logoColor=f480f5) ![Telegram](https://img.shields.io/badge/-Telegram-29122d?style=for-the-badge&logo=Telegram&logoColor=f480f5) ![Instagram](https://img.shields.io/badge/-Instagram-29122d?style=for-the-badge&logo=Instagram&logoColor=f480f5)
+ ![LinkedIn](https://img.shields.io/badge/-LinkedIn-29122d?style=for-the-badge&logo=LinkedIn&logoColor=f480f5) ![Vkontakte](https://img.shields.io/badge/-Vkontakte-29122d?style=for-the-badge&logo=Vk&logoColor=f480f5) ![Facebook](https://img.shields.io/badge/-Facebook-29122d?style=for-the-badge&logo=Facebook&logoColor=f480f5)
