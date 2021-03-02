@@ -1,11 +1,10 @@
-[![Header](https://github.com/artemedev/artemedev/blob/main/assets/download.gif)](https://www.youtube.com/c/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%B8)
+[![Header](https://github.com/artemedev/artemedev/blob/main/assets/download.gif)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
 
 ## I'm a Software Engineer
 
 ### Latest YouTube Videos
-# Blog posts
-<!-- YouTube:START -->
-<!-- YouTube:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ### Languages and Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-29122d?style=for-the-badge&logo=flutter&logoColor=f480f5) ![Dart](https://img.shields.io/badge/-Dart-29122d?style=for-the-badge&logo=dart&logoColor=f480f5) ![Firebase](https://img.shields.io/badge/-Firebase-29122d?style=for-the-badge&logo=firebase&logoColor=f480f5)
