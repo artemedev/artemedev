@@ -7,7 +7,7 @@
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
-![Woo](https://img.shields.io/badge/-Woo-29122d?style=for-the-badge&logo=woo&logoColor=f480f5) ![Dart](https://img.shields.io/badge/-Dart-29122d?style=for-the-badge&logo=dart&logoColor=f480f5) ![Firebase](https://img.shields.io/badge/-Firebase-29122d?style=for-the-badge&logo=firebase&logoColor=f480f5)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-29122d?style=for-the-badge&logo=WooCommerce&logoColor=f480f5) ![Woo](https://img.shields.io/badge/-Woo-29122d?style=for-the-badge&logo=woo&logoColor=f480f5) ![Dart](https://img.shields.io/badge/-Dart-29122d?style=for-the-badge&logo=dart&logoColor=f480f5) ![Firebase](https://img.shields.io/badge/-Firebase-29122d?style=for-the-badge&logo=firebase&logoColor=f480f5)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-29122d?style=for-the-badge&logo=JavaScript&logoColor=f480f5) ![.Net](https://img.shields.io/badge/-Fraemwork-29122d?style=for-the-badge&logo=.net&logoColor=f480f5) ![C++](https://img.shields.io/badge/-C++-29122d?style=for-the-badge&logo=C%2b%2b&logoColor=f480f5) ![Sql](https://img.shields.io/badge/-Sql-29122d?style=for-the-badge&logo=mysql&logoColor=f480f5)
 
 
