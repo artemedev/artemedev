@@ -4,15 +4,10 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Dart уроки для начинающих #15 - ООП: Классы и объекты](https://www.youtube.com/watch?v=HJ090EowqI0)
-- [Dart уроки для начинающих #14 - typedef](https://www.youtube.com/watch?v=OVHnhjZzGWA)
-- [Dart уроки для начинающих #13 - Функции](https://www.youtube.com/watch?v=_k9Xu61XlVE)
-- [Как опубликовать Flutter приложение в Google Play](https://www.youtube.com/watch?v=vgPup1IJ5NQ)
-- [Dart уроки для начинающих #12 - Циклы (for in, for, while, do while)](https://www.youtube.com/watch?v=DUqG-OjhEfg)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-29122d?style=for-the-badge&logo=flutter&logoColor=f480f5) ![Dart](https://img.shields.io/badge/-Dart-29122d?style=for-the-badge&logo=dart&logoColor=f480f5) ![Firebase](https://img.shields.io/badge/-Firebase-29122d?style=for-the-badge&logo=firebase&logoColor=f480f5)
+![Woo](https://img.shields.io/badge/-Woo-29122d?style=for-the-badge&logo=woo&logoColor=f480f5) ![Dart](https://img.shields.io/badge/-Dart-29122d?style=for-the-badge&logo=dart&logoColor=f480f5) ![Firebase](https://img.shields.io/badge/-Firebase-29122d?style=for-the-badge&logo=firebase&logoColor=f480f5)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-29122d?style=for-the-badge&logo=JavaScript&logoColor=f480f5) ![.Net](https://img.shields.io/badge/-Fraemwork-29122d?style=for-the-badge&logo=.net&logoColor=f480f5) ![C++](https://img.shields.io/badge/-C++-29122d?style=for-the-badge&logo=C%2b%2b&logoColor=f480f5) ![Sql](https://img.shields.io/badge/-Sql-29122d?style=for-the-badge&logo=mysql&logoColor=f480f5)
 
 
