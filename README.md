@@ -1,10 +1,10 @@
-[![Header](https://github.com/artemedev/artemedev/blob/main/assets/download.gif)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
+[![Header](https://github.com/artemedev/artemedev/blob/main/assets/download.gif)]()
 
 ## I'm a Software Engineer
 
 <!--  ### Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
-- [Dart уроки для начинающих #16 - ООП: Видимость. Getters / Setters](https://www.youtube.com/watch?v=4lM0Uuh31vE)
+- [Сборка GULP](https://www.youtube.com/watch?v=4lM0Uuh31vE)
 - [Dart уроки для начинающих #15 - ООП: Классы и объекты](https://www.youtube.com/watch?v=HJ090EowqI0)
 - [Dart уроки для начинающих #14 - typedef](https://www.youtube.com/watch?v=OVHnhjZzGWA)
 - [Dart уроки для начинающих #13 - Функции](https://www.youtube.com/watch?v=_k9Xu61XlVE)
