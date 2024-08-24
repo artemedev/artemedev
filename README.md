@@ -6,8 +6,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-29122d?style=for-the-badge&logo=Sass&logoColor=f480f5) ![less](https://img.shields.io/badge/-less-29122d?style=for-the-badge&logo=less&logoColor=f480f5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-29122d?style=for-the-badge&logo=JavaScript&logoColor=f480f5) ![Vue.js](https://img.shields.io/badge/-Vue-29122d?style=for-the-badge&logo=Vue.js&logoColor=f480f5) 
 
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-29122d?style=for-the-badge&logo=WooCommerce&logoColor=f480f5) ![Woo](https://img.shields.io/badge/-Woo-29122d?style=for-the-badge&logo=woo&logoColor=f480f5)  ![Firebase](https://img.shields.io/badge/-Firebase-29122d?style=for-the-badge&logo=firebase&logoColor=f480f5)
- ![Linux](https://img.shields.io/badge/-Linux-29122d?style=for-the-badge&logo=Linux&logoColor=f480f5) ![Webpack](https://img.shields.io/badge/-Webpack-29122d?style=for-the-badge&logo=Webpack&logoColor=f480f5)  ![Gulp](https://img.shields.io/badge/-Gulp-29122d?style=for-the-badge&logo=Gulp&logoColor=f480f5) ![Git](https://img.shields.io/badge/-Git-29122d?style=for-the-badge&logo=Git&logoColor=f480f5) ![Docker](https://img.shields.io/badge/-Docker-29122d?style=for-the-badge&logo=Docker&logoColor=f480f5) ![Figma](https://img.shields.io/badge/-Figma-29122d?style=for-the-badge&logo=Figma&logoColor=f480f5)
+
+ ![Linux](https://img.shields.io/badge/-Linux-29122d?style=for-the-badge&logo=Linux&logoColor=f480f5) ![Webpack](https://img.shields.io/badge/-Webpack-29122d?style=for-the-badge&logo=Webpack&logoColor=f480f5)   ![Git](https://img.shields.io/badge/-Git-29122d?style=for-the-badge&logo=Git&logoColor=f480f5) ![Docker](https://img.shields.io/badge/-Docker-29122d?style=for-the-badge&logo=Docker&logoColor=f480f5) ![Figma](https://img.shields.io/badge/-Figma-29122d?style=for-the-badge&logo=Figma&logoColor=f480f5)
 
 ### Follow Me
 ![![telegram](https://img.shields.io/badge/-telegram-29122d?style=for-the-badge&logo=telegram&logoColor=f480f5)](https://web.telegram.org/#/im?p=@artem_e_dev)
